@@ -1,0 +1,25 @@
+package-lock.json
+node_modules
+# Added before upload
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vs/
+.idea/
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pfx
+*.pem
+*.key
+
+# Node
+node_modules/
+build/
+dist/
+.expo/
+
